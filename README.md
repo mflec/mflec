@@ -44,7 +44,7 @@ and I love it!! 💓💗
 
 ### [MY EMAIL 💻](mailto:mifilechares@gmail.com)
 
-# thank you for taking time to visit me!
+# Thank you for taking time to visit me!
 
 
 
