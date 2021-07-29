@@ -25,7 +25,7 @@ MongoDB
 
 ### 💬Who i am?
 
-I am a developer junior who loves to work and loves to continually learn.
+I am a full stack developer junior who loves to work and loves to continually learn.
 I have the soul of a teacher, and at the same time of a student.
 I'm proud of the hours of work stored on my github, but I also know that i cant still learn a lot. Thank you for taking the time to visit me!   😋
 
