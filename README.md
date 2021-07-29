@@ -24,11 +24,17 @@ Mongoose,
 MongoDB
 
 ### 💬Who i am?
-
-I am a full stack developer junior who loves to work and loves to continually learn.
-I have the soul of a teacher, and at the same time of a student.
+My professional self:
+I am a full stack developer junior who loves to work and loves to continually learn. 👨🏾‍💻
+I have the soul of a teacher.
 I'm proud of the hours of work stored on my github, but I also know that i cant still learn a lot. Thank you for taking the time to visit me!   😋
+My unprofessional self:
+I have four dogs and three of them were rescued from the street 🐶🐶🐶🐶. Thanks to them I became a vegetarian. 🥦
+I like romantic comedies, and horror movies. I know, they are very compatible tastes, lol.
+I have a large family, so you will always see me accompanied. 👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👧‍👦👨‍👩‍👧‍👧👩‍👩‍👧
+If you want to know more about me, talk to me! 😋
 
+### 💕
 
 ### ⚡Fun fact:
 I started programming out of curiosity at the beginning of 2020, now my whole life revolves around web development 😄 
