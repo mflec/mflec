@@ -1,11 +1,15 @@
 # Welcome to my github 👋
 
-😄 My pronouns: she/her
+### 😄 My pronouns: 
+she/her
 
-✨👩‍🎓 ### Programming lenguages:
+### 💖 My name:
+Milagros Fiorella
+
+### ✨👩‍🎓Programming lenguages:
  JavaScript, TypeScript
 
-👩🏾‍💻 ### Skills:
+### 👩🏾‍💻Skills:
 HTML,
 CSS,
 GIT,
