@@ -36,7 +36,7 @@ and I love it!! 💓💗
 
 # [MY LINKEDIN](https://www.linkedin.com/in/milagroslechares/)
 
-# [MY LINKEDIN](mifilechares@gmail.com)
+# [MY LINKEDIN](mailto:mifilechares@gmail.com)
 
 
 
