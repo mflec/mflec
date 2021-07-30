@@ -36,9 +36,7 @@ If you want to know more about me, talk to me! 😋
 
 ### 💕
 
-### ⚡Fun fact:
-I started programming out of curiosity at the beginning of 2020, now my whole life revolves around web development 😄 
-and I love it!! 💓💗
+
 
 ### [MY LINKEDIN👨🏾‍💻](https://www.linkedin.com/in/milagroslechares/)
 
