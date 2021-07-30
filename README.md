@@ -40,7 +40,7 @@ If you want to know more about me, talk to me! 😋
 
 ### [MY LINKEDIN👨🏾‍💻](https://www.linkedin.com/in/milagroslechares/)
 
-### [MY EMAIL 💻 : mifilechares@gmail.com
+### MY EMAIL 💻 : mifilechares@gmail.com
 
 # Thank you for taking time to visit me!
 
