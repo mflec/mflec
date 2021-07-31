@@ -4,7 +4,7 @@
 she/her
 
 ### 💖 My name:
-Milagros Fiorella
+Milagros Fiorella Lechares
 
 ### ✨👩‍🎓Programming lenguages:
  JavaScript, TypeScript
