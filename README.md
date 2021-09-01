@@ -42,6 +42,10 @@ If you want to know more about me, talk to me! 😋
 
 ### MY EMAIL 💻 : mifilechares@gmail.com
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mflec&theme=gruvbox&show_icons=true)
+
+
 # Thank you for taking time to visit me!
 
 
