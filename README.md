@@ -15,6 +15,7 @@ CSS,
 GIT,
 React,
 Redux,
+ReactNative
 NodeJS,
 Express, 
 Sequelize,
