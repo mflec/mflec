@@ -24,17 +24,6 @@ ProgreSQL,
 Mongoose,
 MongoDB
 
-### 💬Who i am?
-My professional self:
-I am a full stack developer junior who loves to work and loves to continually learn. 👨🏾‍💻
-I have the soul of a teacher.
-I'm proud of the hours of work stored on my github, but I also know that i cant still learn a lot. 😋
-My unprofessional self:
-I have four dogs and three of them were rescued from the street 🐶🐶🐶🐶. Thanks to them I became a vegetarian. 🥦
-I like romantic comedies, and horror movies. I know, they are very compatible tastes, lol.
-I have a large family, so you will always see me accompanied. 👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👧‍👦👨‍👩‍👧‍👧👩‍👩‍👧
-If you want to know more about me, talk to me! 😋
-
 ### 💕
 
 
