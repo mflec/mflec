@@ -28,7 +28,7 @@ MongoDB
 
 
 
-### [MY LINKEDIN👨🏾‍💻](https://www.linkedin.com/in/milagroslechares/)
+### [MY LINKEDIN👨🏾‍💻](https://www.linkedin.com/in/fiorellalechares/)
 
 ### MY EMAIL 💻 : mifilechares@gmail.com
 
