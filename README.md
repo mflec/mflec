@@ -7,7 +7,7 @@ she/her
 Milagros Fiorella Lechares
 
 ### ✨👩‍🎓Programming lenguages:
- JavaScript, TypeScript
+ JavaScript, TypeScript, Java
 
 ### 👩🏾‍💻Skills:
 HTML,
